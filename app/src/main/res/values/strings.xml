@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Funny Dagger Compile Problem</string>
+
+    <string name="currentScreen">Current Screen</string>
+    <string name="goToCurrentScreen">Go to current</string>
+
+    <string name="newScreen">New Screen</string>
+    <string name="goToNewScreen">Go to new</string>
+
+    <string name="oldScreen">Old Screen</string>
+    <string name="goToOldScreen">Go to old</string>
+</resources>
